@@ -1,2 +1,2 @@
 RedditRaffle
-Requests>=1.0.4
+Requests>=2.5.2
