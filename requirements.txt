@@ -1,0 +1,2 @@
+RedditRaffle
+Requests>=1.0.4
